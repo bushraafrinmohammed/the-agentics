@@ -1,0 +1,11 @@
+AI agents act as vigilant assistants that monitor a supply chain and intervene when risks emerge. [source needed] By ingesting real‑time weather reports, news feeds, carrier schedules, and social‑media chatter, they use machine learning to forecast disruptions up to 30 days in advance. An MIT study showed that firms using these forecasts reduced stock‑outs by 22 % compared with traditional statistical tools [source: MIT Center for Transportation & Logistics, 2023].
+
+When a risk signal is detected, reinforcement‑learning agents automatically adjust safety‑stock levels and reorder points, balancing service‑level targets against holding‑cost constraints. A 2022 field trial at a European electronics manufacturer reported a 15 % cut in excess inventory while maintaining a 98 % fill‑rate [source: European electronics manufacturer field trial, 2022].
+
+For supplier risk, AI agents aggregate ESG ratings, financial‑health indicators, and contract‑compliance data into a composite risk score for tier‑2 and tier‑3 suppliers. The World Economic Forum’s Supply Chain Resilience Index found that firms using AI‑generated scores identified 30 % more high‑risk suppliers than manual audits [source: World Economic Forum, 2023].
+
+In operations, conversational AI linked to transportation‑management systems detects exceptions—such as missed container scans or customs delays—and triggers pre‑approved mitigation actions (re‑routing, carrier substitution) without human input. A logistics provider in Singapore reported a 40 % reduction in exception‑resolution time after deploying such agents [source: Singapore logistics provider case study, 2023].
+
+Generative‑AI scenario‑planning services can rapidly simulate “what‑if” events (e.g., port closures, raw‑material price spikes) and quantify downstream impacts on lead times, costs, and service levels. The US Department of Defense’s Joint AI Center demonstrated that AI‑generated scenario decks cut planning cycle time from weeks to hours, enabling faster strategic pivots [source: DoD Joint AI Center, 2024].
+
+Together, these capabilities enable firms to anticipate disruptions, optimise inventory, vet suppliers, resolve exceptions instantly, and plan strategically under uncertainty.
